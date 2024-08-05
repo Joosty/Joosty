@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joosty</h1>
+<h1 align="center">Hi 👋, I'm @Joosty</h1>
 <h3 align="center">A MEng Aerospace Engineering student @ QMUL</h3>
 
 - 🔭 I’m currently working on: [a summer research project centred around spacecraft dynamics.](https://github.com/Joosty/Debris-Mitigation-Summer)
