@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joosty</h1>
 <h3 align="center">A MEng Aerospace Engineering student @ QMUL</h3>
 
-- 🔭 I’m currently working on: [a summer research project centred around spacecraft dynamics.](https://github.com/Joosty/Debris-Mitigation-Summer)
+- 🔭 I’m currently working on: [a summer research project centred around spacecraft dynamics.](https://github.com/Joosty/Debris-Mitigation-Summer) and [contributing to a textbook on Computational Dynamics] (https://github.com/angadhn/ComputationalDynamics) 
 - 🌱 I’m currently learning: **how to simulate impulsive and non-impulsive burns and variable mass systems to simulate complex motion.**
 - 👨‍💻 All of my projects and articles are available at: [https://joosty.github.io](https://joosty.github.io).
 - 💬 Ask me about: **orbital mechanics, propulsion, and satellite design.**
